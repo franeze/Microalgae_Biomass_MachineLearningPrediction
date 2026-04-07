@@ -1,7 +1,9 @@
 # Predicting Microalgae Biomass Using Machine Learning and Sensor Data
 Machine learning project to predict microalgae biomass from environmental and physicochemical data. Compares Linear Regression, Random Forest, and XGBoost, with hyperparameter tuning. Results show strong performance and capture non-linear biological dynamics like nutrient consumption and metabolism.
 
-![Photobioreactor](images/AI-Generated-PBR.png)
+<p align="center">
+  <img src="images/AI-Generated-PBR.png" width="250">
+</p>
 
 ## Overview
 This project develops a machine learning model to predict microalgae biomass concentration (g/L) using environmental and physicochemical variables collected during cultivation.
