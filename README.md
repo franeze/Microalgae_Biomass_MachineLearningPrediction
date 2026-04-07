@@ -99,9 +99,6 @@ Model performance was evaluated using:
 ## Visual Results
 
 ### Correlation Matrix
-<p align="center">
-  <img src="images/AI-Generated-PBR.png" width="350">
-</p>
 
 ![Correlation Matrix](images/correlation_matrix.png)
 
