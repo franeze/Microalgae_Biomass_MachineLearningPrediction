@@ -33,6 +33,13 @@ The objective of this project is to develop a predictive model capable of estima
 ---
 
 ## Dataset
+
+The dataset used in this project is publicly available at:
+
+https://www.sciencedirect.com/science/article/pii/S2352340925007279
+
+Due to licensing considerations, the full dataset is not included in this repository.
+
 The dataset includes measurements from microalgae cultivation experiments, combining environmental conditions and physicochemical variables:
 
 | Variable         | Description                                                         | Unit      |
@@ -47,7 +54,6 @@ The dataset includes measurements from microalgae cultivation experiments, combi
 | OD               | Dissolved oxygen                                                   | mg/L     |
 | Conductivity     | Ionic concentration indicator                                      | µS/cm    |
 
-Source: https://www.sciencedirect.com/science/article/pii/S2352340925007279
 
 ---
 
