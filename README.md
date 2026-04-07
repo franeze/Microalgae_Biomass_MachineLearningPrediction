@@ -99,21 +99,25 @@ Model performance was evaluated using:
 ## Visual Results
 
 ### Correlation Matrix
-![image/Correlation Matrix](correlation_matrix.png)
+<p align="center">
+  <img src="images/AI-Generated-PBR.png" width="350">
+</p>
+
+![Correlation Matrix](images/correlation_matrix.png)
 
 The correlation matrix highlights strong relationships between biomass and key variables, particularly the inverse relationship with NO₃ and gas concentrations, reflecting nutrient consumption and metabolic processes.
 
 
 
 ### Predicted vs Actual Biomass (Random Forest)
-![Predicted vs Actual](predicted_vs_actual.png)
+![Predicted vs Actual](images/predicted_vs_actual.png)
 
 The close alignment between predicted and actual values indicates high model accuracy and strong generalization performance.
 
 
 
 ### Feature Importance (Random Forest)
-![Feature Importance](feature_importance.png)
+![Feature Importance](images/feature_importance.png)
 
 NO₃ dominates the model, confirming its role as the primary driver of biomass variability, while other variables contribute marginally.
 
