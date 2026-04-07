@@ -14,6 +14,17 @@ Multiple models were evaluated, including Linear Regression (baseline), Random F
 
 ---
 
+## Notebooks
+
+- 📊 **EDA Notebook**  
+  [Open notebook](notebooks/01_eda.ipynb)  
+  Data cleaning, exploration and correlation analysis
+
+- 🤖 **Modeling Notebook**  
+  [Open notebook](notebooks/02_modeling.ipynb)  
+  Feature selection, implementation of Linear Regression, Random Forest, and XGBoost, including hyperparameter tuning and model evaluation.
+
+---
 ## Scientific Problem
 Estimating microalgae biomass typically requires direct measurement techniques that are accurate but time-consuming and labor-intensive. This limits their use for real-time monitoring and process optimization.
 
